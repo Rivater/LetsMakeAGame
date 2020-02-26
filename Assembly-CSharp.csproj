@@ -64,10 +64,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\FollowPlayer.cs" />
-    <Compile Include="Assets\OvenAvaus.cs" />
-    <Compile Include="Assets\PlayerMovement.cs" />
-    <Compile Include="Assets\SceneSwitcher.cs" />
+    <Compile Include="Assets\Scriptit\FollowPlayer.cs" />
+    <Compile Include="Assets\Scriptit\MouseAimCamera.cs" />
+    <Compile Include="Assets\Scriptit\OvenAvaus.cs" />
+    <Compile Include="Assets\Scriptit\Pelaaja.cs" />
+    <Compile Include="Assets\Scriptit\PlayerMovement.cs" />
+    <Compile Include="Assets\Scriptit\SceneSwitcher.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Omistaja/Desktop/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

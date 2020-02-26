@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: bdef8aeae85ccba46ab1098f3fed4d0a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: alaselka
+    100002: Armature
+    100004: kainalo.L
+    100006: kainalo.R
+    100008: keskiselka
+    100010: kyynerpaa.L
+    100012: kyynerpaa.R
+    100014: //RootNode
+    100016: nilkka.L
+    100018: nilkka.R
+    100020: niska
+    100022: olkapaa.L
+    100024: olkapaa.R
+    100026: paa
+    100028: paa_end
+    100030: peukku.L
+    100032: peukku.L_end
+    100034: peukku.R
+    100036: peukku.R_end
+    100038: peukku2.L
+    100040: peukku2.R
+    100042: peukku3.L
+    100044: peukku3.R
+    100046: Plane
+    100048: polvi.L
+    100050: polvi.R
+    100052: ranne.L
+    100054: ranne.R
+    100056: reisi.L
+    100058: reisi.R
+    100060: sormi1.L
+    100062: sormi1.L_end
+    100064: sormi1.R
+    100066: sormi1.R_end
+    100068: sormi2.L
+    100070: sormi2.R
+    100072: sormi3.L
+    100074: sormi3.R
+    100076: varvas.L
+    100078: varvas.L_end
+    100080: varvas.R
+    100082: varvas.R_end
+    100084: ylaselka
+    400000: alaselka
+    400002: Armature
+    400004: kainalo.L
+    400006: kainalo.R
+    400008: keskiselka
+    400010: kyynerpaa.L
+    400012: kyynerpaa.R
+    400014: //RootNode
+    400016: nilkka.L
+    400018: nilkka.R
+    400020: niska
+    400022: olkapaa.L
+    400024: olkapaa.R
+    400026: paa
+    400028: paa_end
+    400030: peukku.L
+    400032: peukku.L_end
+    400034: peukku.R
+    400036: peukku.R_end
+    400038: peukku2.L
+    400040: peukku2.R
+    400042: peukku3.L
+    400044: peukku3.R
+    400046: Plane
+    400048: polvi.L
+    400050: polvi.R
+    400052: ranne.L
+    400054: ranne.R
+    400056: reisi.L
+    400058: reisi.R
+    400060: sormi1.L
+    400062: sormi1.L_end
+    400064: sormi1.R
+    400066: sormi1.R_end
+    400068: sormi2.L
+    400070: sormi2.R
+    400072: sormi3.L
+    400074: sormi3.R
+    400076: varvas.L
+    400078: varvas.L_end
+    400080: varvas.R
+    400082: varvas.R_end
+    400084: ylaselka
+    2100000: No Name
+    2300000: Plane
+    3300000: Plane
+    4300000: Plane
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
