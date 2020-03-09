@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/29012020.unity
+- path: Assets/Mainmenu/Assets/Scenes/MainMenu.unity
   isLoaded: 1
   isActive: 1
